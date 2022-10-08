@@ -9,3 +9,5 @@ If you want the wifi, trackpad, and bluetooth to work and are fine using Big Sur
 ## After downloading EFI
 * create your own USB map using [USBToolBox](https://github.com/USBToolBox/tool) [helpful tutorial](https://lzhoang2601.github.io/) by Hoàng Hồng Quân (your selection of ports may not be the same as mine)
 * generate your serial and SMBIOS following the dortania guide 
+
+##Improvements coming very soon
