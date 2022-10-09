@@ -7,7 +7,7 @@ If you want the wifi and bluetooth to work and are fine using Big Sur use [L9PYK
 
 ## After downloading EFI
 * create your own USB map using [USBToolBox](https://github.com/USBToolBox/tool) [helpful tutorial](https://lzhoang2601.github.io/) by Hoàng Hồng Quân (your selection of ports may not be the same as mine)
-* generate your serial and SMBIOS following the dortania guide 
+* use GenSMBIOS to generate your SMBIOS following the dortania guide 
 
 ## CURRENTLY TESTING NEW EFI!!!
 Trackpad works now
