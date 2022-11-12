@@ -12,3 +12,4 @@ If you want the wifi and bluetooth to work and are fine using Big Sur use [L9PYK
 ## Upcoming release in November 👀
 Opencore 0.8.6 is out! New EFI in development! VENTURA!
 
+* macrecovery command: python ./macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 download
