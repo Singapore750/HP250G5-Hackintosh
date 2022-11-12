@@ -10,4 +10,5 @@ If you want the wifi and bluetooth to work and are fine using Big Sur use [L9PYK
 * use GenSMBIOS to generate your SMBIOS following the dortania guide 
 
 ## Upcoming release in November 👀
+Opencore 0.8.6 is out! New EFI in development! VENTURA!
 
