@@ -5,7 +5,7 @@
 * create your own USB map using [USBToolBox](https://github.com/USBToolBox/tool) [helpful tutorial](https://lzhoang2601.github.io/) by Hoàng Hồng Quân (your selection of ports may not be the same as mine)
 * use GenSMBIOS to generate your SMBIOS following the dortania guide 
 
-## Upcoming release in November 👀
+## The latest
 Opencore 0.8.7 is out! 
 Big Sur EFI released!
 Trackpad and wireless both work. I used to have a problem where I could ghet one or the other to work but not both. Big Sur is very stable and doesn't cause many issues. 
