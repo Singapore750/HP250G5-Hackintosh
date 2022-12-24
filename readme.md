@@ -20,3 +20,6 @@ Trackpad and wireless both work. I used to have a problem where I could ghet one
 
 ## Problem with Monterey
 * Sometimes it will say that a driver is missing and that it has encountered a fatal error. To fix this just power off the computer and boot from USB again. 
+
+## Problem with Ventura
+* Stuck on boot loop. No solution yet. 
