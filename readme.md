@@ -13,7 +13,7 @@ Trackpad and wireless both work. I used to have a problem where I could ghet one
 ** macOS 13 Ventura - python ./macrecovery.py -b Mac-B4831CEBD52A0C4C -m 00000000000000000 -os latest download
 ** macOS 12 Monterey - python ./macrecovery.py -b Mac-E43C1C25D4880AD6 -m 00000000000000000 download
 ** macOS 11 Big Sur -  python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
- - Sourced from Dortania guide - 
+ Sourced from Dortania guide 
 I am now working on EFI's for Monterey and Ventura. Ventura EFI should be out after the Opencore guide is updated with Ventura instructions.
 
 ## Problem with Monterey
