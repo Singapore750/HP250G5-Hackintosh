@@ -15,6 +15,7 @@ Trackpad and wireless both work. I used to have a problem where I could get one 
 ** macOS 11 Big Sur -  python macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
  
   Sourced from Dortania guide 
+  HAPPY NEW YEAR!!! Opencore 0.8.8 will come out soon. Expect updates soon!
 
 
 
