@@ -19,9 +19,10 @@ Trackpad and wireless both work. I used to have a problem where I could get one 
 
 
 
-## Problem with Monterey
-* Sometimes it will say that a driver is missing and that it has encountered a fatal error. To fix this just power off the computer and boot from USB again. 
+## Es posible que suba un nuevo update...Asegúrense de que hubieran starred mi repo
+Mil disculpas por la tardanza...
+si tengo bastante estrellas...tal vez pudiere hacer un EFI para macOS 14... pero dudo mucho de que mi computadora sea compatible
+hasta entonces
 
-## Problem with Ventura
-* Many different attempts did not work. I'll wait for the January opencore update and try again. 
+
 
